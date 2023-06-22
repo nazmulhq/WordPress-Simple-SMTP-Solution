@@ -1,0 +1,13 @@
+
+td.tbl-td-label-name {
+	width: 20%;
+}
+div.sc-wordsmtp-debug-info {
+	display: none;
+	margin-top: 2%;
+	min-height: 100px;	
+	max-width: 80%;
+	margin: 0 auto;	
+	padding: 25px;
+	background-color: white;	
+}
